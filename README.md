@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Science student at Strathmore University<br/>  <br>🔍 Passionate about networking, cybersecurity, and software engineering <br/>  <br>🚀 Building projects in Python,Java, PHP, and web development <br>📩 Let's connect! [www.linkedin.com/in/sharlet-kirui-12bb3029b]<br>
+💻 Computer Science student at Strathmore University<br/>  <br>🔍 Passionate about networking, cybersecurity, and software engineering <br/>  <br>🚀 Building projects in Python,Java, PHP, and web development<br/>  <br>📩 Let's connect! [www.linkedin.com/in/sharlet-kirui-12bb3029b]<br>
 
 
 ## 🌐 Socials:
